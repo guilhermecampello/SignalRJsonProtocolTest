@@ -30,7 +30,7 @@ namespace BlazorAppNet8
                 {
                     if (hubConnection.State == HubConnectionState.Disconnected)
                     {
-                        Console.WriteLine("Connecting from BlazorApp...");
+                        Console.WriteLine("Connecting from BlazorApp Net8.0...");
                         await hubConnection.StartAsync();
                     }
                 }
