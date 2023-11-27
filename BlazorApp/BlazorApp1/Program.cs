@@ -1,6 +1,6 @@
-using BlazorApp1.Components;
+using BlazorAppNet8.Components;
 
-namespace BlazorApp1
+namespace BlazorAppNet8
 {
     public class Program
     {

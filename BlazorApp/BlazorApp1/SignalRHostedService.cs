@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.SignalR.Client;
 using Microsoft.Extensions.Logging;
 
-namespace BlazorApp1
+namespace BlazorAppNet8
 {
     public class SignalRHostedService : IHostedService
     {
